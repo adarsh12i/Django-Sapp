@@ -1,2 +1,2 @@
 # Django-Sapp
-Shopping website
+Shopping website development
