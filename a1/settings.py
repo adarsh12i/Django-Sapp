@@ -129,4 +129,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 django_heroku.settings(locals())
 
-ALLOWED_HOSTS = ['192.168.0.2', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['https://bikefind.herokuapp.com','localhost','127.0.0.1']
+
+#ALLOWED_HOSTS = ['192.168.0.2', 'localhost', '127.0.0.1']
